@@ -1,0 +1,21 @@
+How to set up this project
+### install node js
+create a folder and "npm init"
+### install dependencies
+>npm i express express-graphql graphql
+>npm install mongodb@6.8
+>npm install mongoose
+>npm -i --save nodemon
+
+####
+To run the app
+npm run devStart
+
+
+### install mangoDB and shell
+https://mongodb.com/try/download/community-kubernetes-operator
+https://www.mongodb.com/try/download/shell
+
+version check 
+>mongod -version
+>shows dbs
